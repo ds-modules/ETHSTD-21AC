@@ -1,1 +1,2 @@
-# ETHSTD-21AC-
+# ESDS
+Ethnic Studies 21 AC Module
