@@ -1,2 +1,2 @@
 # ESDS
-Ethnic Studies 21 AC Module
+Materials for Ethnic Studies 21 AC Module
